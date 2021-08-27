@@ -1,3 +1,16 @@
+# Anders' First CS193 Homework!
+
+### Favorite Things about CS193
+
+- This whole website thing is really cool
+- I'm glad we're using GitHub
+- I like that this class is going to be kinda chill
+- It's pretty epic that we're getting taught by students
+
+
+
+# The Rest of the Website
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
